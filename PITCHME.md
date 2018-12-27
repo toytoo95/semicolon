@@ -18,7 +18,7 @@
 
 ---
 # 김종우
-![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiInbq5x7_fAhWDdt4KHVxUA9cQjRx6BAgBEAU&url=http%3A%2F%2Fko.pokemon.wikia.com%2Fwiki%2F%25EA%25B1%25B0%25EB%25B6%2581%25EC%2599%2595_(%25ED%258F%25AC%25EC%25BC%2593%25EB%25AA%25AC)&psig=AOvVaw2uRd5X6pD5stFiRVzGYTBg&ust=1545984541584948)
+![](https://vignette.wikia.nocookie.net/pokemon/images/e/e9/%EA%B1%B0%EB%B6%81%EC%99%95_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest?cb=20170404233631&path-prefix=ko)
 
 이름 : 김종우
 
@@ -28,7 +28,7 @@
 
 신조 : 법없이는 살아도 사랑없인 못산다
 
-연말 계획 : 다독왕
+연말 계획 : 일출보러갈거
 
 ---
 # 안승태
