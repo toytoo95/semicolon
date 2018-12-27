@@ -65,6 +65,8 @@
 
 연말 계획 : 가족들이랑 속초 여행 ~ @fa[heart]
 
+## Summer @emoji[sunny] + @emoji[sunflower] = happy @emoji[honeybee]
+
 ---
 # 변하린
 
