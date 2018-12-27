@@ -14,10 +14,11 @@
 
 성격 : 무난함
 
-연말 계획 : 아쿠아맨, 스파이더맨 볼 생각
+연말 계획 : 아쿠아맨, 스파이더맨 볼 예정'-'v
 
 ---
 # 김종우
+![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiInbq5x7_fAhWDdt4KHVxUA9cQjRx6BAgBEAU&url=http%3A%2F%2Fko.pokemon.wikia.com%2Fwiki%2F%25EA%25B1%25B0%25EB%25B6%2581%25EC%2599%2595_(%25ED%258F%25AC%25EC%25BC%2593%25EB%25AA%25AC)&psig=AOvVaw2uRd5X6pD5stFiRVzGYTBg&ust=1545984541584948)
 
 이름 : 김종우
 
@@ -62,7 +63,7 @@
 
 성격 : 강인함
 
-연말 계획 : 가족들이랑 속초 여행
+## 연말 계획 : 가족들이랑 속초 여행 ~ s2 ##
 
 ---
 # 변하린
