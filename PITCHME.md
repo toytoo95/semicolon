@@ -47,12 +47,12 @@
 ---
 # 변하린
 
+![](https://seoul-p-studio.bunjang.net/product/49246632_1_1464402270_w434.jpg)
+
 이름 : 변하린
 별명 : 보거스 >> 이승기 별명 보거스임 알아둬
-![보거스](https://seoul-p-studio.bunjang.net/product/49246632_1_1464402270_w434.jpg)
-
 성격 : 노래를 잘부름
-연말 계획 : 
+연말 계획 : 노래방
 
 ---
 # 사진
