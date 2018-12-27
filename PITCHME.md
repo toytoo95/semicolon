@@ -32,21 +32,25 @@
 # 장석우
 ![](http://mblogthumb4.phinf.naver.net/20141020_215/kimmisung08_1413743556738FatLL_JPEG/%BA%B8%B1%DB%BA%B8%B1%DB-%BD%BA%C6%F9%C1%F6%B9%E4-%C6%E4%C0%CC%C6%DB-%C5%E4%C0%CC%2C%BD%BA%C6%F9%C1%F6%B9%E4-%B5%EE%C0%E5%C0%CE%B9%B0%2C%C6%E4%C0%CC%C6%DB-%C5%E4%C0%CC%2C%C6%E4%C0%CC%C6%DB-%C5%A9%B7%A1%C7%C1%C6%AE%2C%C0%CE%C5%D7%B8%AE%BE%EE-%BC%D2%C7%B0%2C%C1%BE%C0%CC%B8%F0%C7%FC%2C%BD%BA%C6%F9%C1%F6%B9%E4-%C6%E4%C0%CC%C6%DB-%C5%E4%C0%CCdfkj3o2ifjkl.jpg?type=w2)
 
-*이름 : 장석우
+*이름 : 장석우*
 
-*별명 : 징징이집
+*별명 : 징징이집*
 
-*성격 : 배려심이 매우 
-
-*연말 계획 : 친구
+*성격 : 배려심이 매우 좋다 *
+ 
+*연말 계획 : 친구 *
 
 ---
 # 이승주
 
 안녕 ? 난 승주라고해~
+
 별명은 힘승주야
+
 트러블 생기기 싫으면 알아서해~^^*
+
 연말에 가족들이랑 속초 여행 갈고양
+
 
 ---
 # 변하린
