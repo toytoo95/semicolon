@@ -6,7 +6,7 @@
 김유나, 김종우, 안승태, 이승주, 장석우, 변하린
 
 ---
-# 김유나
+### 김유나
 
 @size[0.5em](하이 나 유나쓰 스물네살인디)
 
@@ -17,7 +17,7 @@
 연말 계획 : 아쿠아맨, 스파이더맨 볼 예정'-'v
 
 ---
-# @size[1.0em](김종우)
+### 김종우
 ![](https://vignette.wikia.nocookie.net/pokemon/images/3/39/%EC%A6%88%EB%AF%B8%EC%9D%98_%EB%A9%94%EA%B0%80%EA%B1%B0%EB%B6%81%EC%99%95.png/revision/latest?cb=20140425180943&path-prefix=ko)
 
 이름 : 김종우
