@@ -18,7 +18,7 @@
 
 ---
 # 김종우
-![](https://vignette.wikia.nocookie.net/pokemon/images/e/e9/%EA%B1%B0%EB%B6%81%EC%99%95_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest?cb=20170404233631&path-prefix=ko)
+![](https://vignette.wikia.nocookie.net/pokemon/images/3/39/%EC%A6%88%EB%AF%B8%EC%9D%98_%EB%A9%94%EA%B0%80%EA%B1%B0%EB%B6%81%EC%99%95.png/revision/latest?cb=20140425180943&path-prefix=ko)
 
 이름 : 김종우
 
