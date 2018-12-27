@@ -6,7 +6,7 @@
 김유나, 김종우, 안승태, 이승주, 장석우, 변하린
 
 ---
-# 김유나
+## 김유나
 
 @size[0.5em](하이 나 유나쓰 스물네살인디)
 
@@ -17,7 +17,7 @@
 연말 계획 : 아쿠아맨, 스파이더맨 볼 예정'-'v
 
 ---
-# 김종우
+## 김종우
 ![](https://vignette.wikia.nocookie.net/pokemon/images/3/39/%EC%A6%88%EB%AF%B8%EC%9D%98_%EB%A9%94%EA%B0%80%EA%B1%B0%EB%B6%81%EC%99%95.png/revision/latest?cb=20140425180943&path-prefix=ko)
 
 이름 : 김종우
@@ -31,7 +31,7 @@
 연말 계획 : 일출보러갈거
 
 ---
-# 안승태
+## 안승태
 
 이름 : 안승태
 
@@ -43,7 +43,7 @@
 
 
 ---
-# 장석우
+## 장석우
 ![](http://mblogthumb4.phinf.naver.net/20141020_215/kimmisung08_1413743556738FatLL_JPEG/%BA%B8%B1%DB%BA%B8%B1%DB-%BD%BA%C6%F9%C1%F6%B9%E4-%C6%E4%C0%CC%C6%DB-%C5%E4%C0%CC%2C%BD%BA%C6%F9%C1%F6%B9%E4-%B5%EE%C0%E5%C0%CE%B9%B0%2C%C6%E4%C0%CC%C6%DB-%C5%E4%C0%CC%2C%C6%E4%C0%CC%C6%DB-%C5%A9%B7%A1%C7%C1%C6%AE%2C%C0%CE%C5%D7%B8%AE%BE%EE-%BC%D2%C7%B0%2C%C1%BE%C0%CC%B8%F0%C7%FC%2C%BD%BA%C6%F9%C1%F6%B9%E4-%C6%E4%C0%CC%C6%DB-%C5%E4%C0%CCdfkj3o2ifjkl.jpg?type=w2)
 
 *이름 : 장석우*
